@@ -65,7 +65,7 @@ The following table explains the features in the clean dataset(updated):
 *   There are 19 columns with 18 features
 *   There are still NA values in columns: 'previous_year_daily_unit_sales', 'percentage_difference_daily_unit_sales', 'previous_year_daily_unit_sales_kg', 'percentage_difference_daily_unit_sales_kg', ' previous_year_daily_unit_returns_kg', 'previous_year_points_of_distribution', and this is because we don't have the data of Year 2019.
 
-  
+---
 **Refernece**
 ​
 [1] I. Siniosoglou, K. Xouveroudis, V. Argyriou, T. Lagkas, S. K. Goudos, K. E. Psannis and P. Sarigiannidis,  "**Evaluating the Effect of Volatile Federated Timeseries on Modern DNNs: Attention over Long/Short  Memory**," in the 12th International Conference on Circuits and Systems Technologies (MOCAST  2023), April 2023, Accepted
